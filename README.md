@@ -4,7 +4,7 @@ Nir Stiassnie and Joshua Shay Kricheli
 
 ### Final Project - Quantum Algorithm for Linear Systems of Equations
 
-[[report]](QC_Presentation.pdf), [[paper]](https://arxiv.org/abs/0811.3171)
+[[presentation]](QC_Presentation.pdf), [[paper]](https://arxiv.org/abs/0811.3171)
 
 ### Homeworks
 
